@@ -40,7 +40,7 @@ Part 2:
 
 cd ~/hector_group2_ws/src
 
-git clone https://github.com/fserally/drone.git
+git clone https://github.com/ketnav01/drone.git
 
 cd ..
 
